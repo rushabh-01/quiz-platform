@@ -1,5 +1,3 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbctv18.com%2Fquiz-list%2F&psig=AOvVaw0Dm5guCrkezD1YtQ3cJOGB&ust=1669899036564000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCZ2uj41fsCFQAAAAAdAAAAABAE" alt="image"/>
-
 # Frontend Capstone Project - Almabetter
 
 Hot to run this project
