@@ -1,6 +1,6 @@
 # Frontend Capstone Project - Almabetter
 
-Hot to run this project
+How to run this project
 
 1. Use command "npm i" or "npm install" to install dependencies
 
@@ -32,3 +32,4 @@ https://github.com/rushabh-01/quiz-platform/tree/master
 
 ## Deployment link
 
+https://638793e898a4ed26f01dc4c3--resonant-llama-7a3257.netlify.app/
