@@ -28,5 +28,9 @@ User can play the quiz once created and the result will be shown thereafter.
 
 The Website works on all kind of devices and operating system.
 
+## Github link
+
+https://github.com/rushabh-01/quiz-platform/tree/master
+
 ## Deployment link
 
