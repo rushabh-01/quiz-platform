@@ -28,7 +28,7 @@ The Website works on all kind of devices and operating system.
 
 ## Github link
 
-https://github.com/rushabh-01/quiz-platform/tree/master
+https://github.com/rushabh-01/quiz-platform
 
 ## Deployment link
 
