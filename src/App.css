@@ -55,6 +55,11 @@ a {
   display: flex;
 }
 
+.activenav {
+  color: lightblue;
+  position: relative;
+}
+
 /* home page */
 .card-section{
   display: flex;

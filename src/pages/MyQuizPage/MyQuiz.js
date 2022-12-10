@@ -70,6 +70,7 @@ const MyQuiz = () => {
               <div className="all-quiz-main">
               <div className="dflex all-quiz">
               <table>
+                <tbody>
                   <tr>
                     <td className="all-quiz-number bold">Quiz no</td>
                     <td className="all-quiz-title bold">Title</td>
@@ -77,6 +78,7 @@ const MyQuiz = () => {
                     <td className="time bold">Created on</td>
                     <td className="quiz-delete-icon bold">Action</td>
                   </tr>
+                </tbody>
                 </table>
               </div>
 
