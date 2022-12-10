@@ -26,7 +26,7 @@ The Website works on all kind of devices and operating system.
 <br>
 
 <p align="center">
-<h4 align="center">Landing page</h4>
+<h4 align="center">Home page</h4>
   <img src="src\images\overview1.png"  title="Landing Page">
   <br>
   <h4 align="center">Play Quiz Modal</h4>
