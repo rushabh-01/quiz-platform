@@ -24,7 +24,9 @@ User can play the quiz once created and the result will be shown thereafter.
 The Website works on all kind of devices and operating system.
 
 <p align="center">
+<h3>Landing page</h3>
   <img src="src\images\overview1.png"  title="Landing Page">
+  <h3>Play Quiz Modal</h3>
   <img src="src\images\overview2.png"  alt="Play Quiz Modal">
 </p>
 
