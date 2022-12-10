@@ -1,6 +1,8 @@
 # Frontend Capstone Project - Almabetter
 
-How to run this project
+## Quiz Platform
+
+## How to run this project
 
 1. Use command "npm i" or "npm install" to install dependencies
 
@@ -10,11 +12,6 @@ How to run this project
 
 4. You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Technologies used in this project
-
-1. React
-2. Redux
-3. Material-UI
 
 ## Overview
 
@@ -26,9 +23,18 @@ User can play the quiz once created and the result will be shown thereafter.
 
 The Website works on all kind of devices and operating system.
 
+
+## Technologies used in this project
+
+1. React
+2. Redux
+3. Material-UI
+
+
 ## Github link
 
 https://github.com/rushabh-01/quiz-platform
+
 
 ## Deployment link
 
