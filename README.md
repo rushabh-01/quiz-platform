@@ -24,8 +24,8 @@ User can play the quiz once created and the result will be shown thereafter.
 The Website works on all kind of devices and operating system.
 
 <p align="center">
-  <img src="src\images\overview1.png" width="350" title="hover text">
-  <img src="src\images\overview2.png" width="350" alt="accessibility text">
+  <img src="src\images\overview1.png"  title="hover text">
+  <img src="src\images\overview2.png"  alt="accessibility text">
 </p>
 
 
