@@ -49,4 +49,4 @@ https://github.com/rushabh-01/quiz-platform
 
 ## Deployment link
 
-https://638793e898a4ed26f01dc4c3--resonant-llama-7a3257.netlify.app/
+https://quizbuilder.netlify.app
